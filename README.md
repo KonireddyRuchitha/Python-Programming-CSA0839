@@ -25,3 +25,9 @@ day 2.2 Leap year.py-leap year
 day 2.3 sentence.py-sentence
 
 day 2.4 merge sorted lists.py-lists
+
+
+
+day 2.6 didgits.py-digits
+
+day 2.7 generate paranthesis-paranthesis
