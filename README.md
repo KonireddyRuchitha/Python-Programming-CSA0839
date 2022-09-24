@@ -18,6 +18,8 @@ entering and leaving guests.py-guests
 
 ascii value.py-frequency of character
 
+DAY 2 PROGRAMS
+
 day 2.1 staircase.py-staircase
 
 day 2.2 Leap year.py-leap year
@@ -26,7 +28,7 @@ day 2.3 sentence.py-sentence
 
 day 2.4 merge sorted lists.py-lists
 
-
+day 2.5 expression.py-expression
 
 day 2.6 didgits.py-digits
 
