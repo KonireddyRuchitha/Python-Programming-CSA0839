@@ -1,3 +1,5 @@
+#DAY 1 PROGRAMS
+
 day1.1 isomorphic.png-isomorphic string
 
 day 1.2 sumof squares.py.png-sumsquares
@@ -17,8 +19,8 @@ Day 1.8.py-split up
 entering and leaving guests.py-guests
 
 ascii value.py-frequency of character
-
-DAY 2 PROGRAMS
+_______________________________________________________________________________________________________________________________________________________________________
+#DAY 2 PROGRAMS
 
 day 2.1 staircase.py-staircase
 
@@ -39,7 +41,7 @@ day 2.8 string and pattern.py-string
 day 2.9 seasons.py-seasons
 
 day 2.10 remove words.py-remove words
-
+_______________________________________________________________________________________________________________________________________________________________________
 #DAY 3 PROGRAMS
 
 day 3.1 profit.py-profit
@@ -59,7 +61,7 @@ day 3.8 anagrams.py-anagrams
 day 3.9 string and pattern.py-string
 
 day 3.10 character.py-character string
-
+_______________________________________________________________________________________________________________________________________________________________________
 #DAY 4 PROGRAMS
 
 day 4.1 string.py-string
@@ -81,7 +83,7 @@ day 4.8 roman numeral.py-roman
 day 4.9 seasons.py-months
 
 day 4.10 scramble string.py-scramble
-
+_______________________________________________________________________________________________________________________________________________________________________
 #DAY 5 PROGRAMS
 
 day 5.1 string.py-string
